@@ -1,6 +1,6 @@
-update=10/04/2013 14:23:50
+update=08.10.2014 12:10:54
 version=1
-last_client=pcbnew
+last_client=eeschema
 [cvpcb]
 version=1
 NetITyp=0
@@ -13,26 +13,6 @@ NetType=0
 EquName1=devcms
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=D:/libs/Kicad
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
-[eeschema/libraries]
-LibName1=Connectors_kl
-LibName2=pcb_details
-LibName3=power
-LibName4=Power_kl
-LibName5=RF ICs
-LibName6=st_kl
-LibName7=Tittar_kl
-LibName8=Transistors_kl
-LibName9=Sensors
-LibName10=display_kl
-LibName11=Antennas_kl
 [pcbnew]
 version=1
 LastNetListRead=Rinca.net
@@ -61,3 +41,35 @@ LibName5=Tittar_kl
 LibName6=Batteries_kl
 LibName7=Sensors
 LibName8=display_kl
+[eeschema]
+version=1
+LibDir=D:/libs/Kicad;../Node_hw;../../../../Armlet;../../../../Armlet
+NetFmtName=
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
+[eeschema/libraries]
+LibName1=Armlet3-cache
+LibName2=Connectors_kl
+LibName3=pcb_details
+LibName4=power
+LibName5=Power_kl
+LibName6=RF ICs
+LibName7=st_kl
+LibName8=Tittar_kl
+LibName9=Transistors_kl
+LibName10=Sensors
+LibName11=display_kl
+LibName12=Antennas_kl
+LibName13=memory
+LibName14=Node-cache
+LibName15=adc_kl
+LibName16=Atmel_kl
+LibName17=Audio_kl
+LibName18=dac
+LibName19=Interface_kl
+LibName20=modules
+LibName21=OpAmp_kl
+LibName22=SmartCard_kl
+LibName23=standard_logic
