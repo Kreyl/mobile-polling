@@ -1,0 +1,1 @@
+Convent intended system for convenient polling of group of participants
